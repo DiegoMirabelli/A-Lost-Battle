@@ -12,3 +12,10 @@ config_version=5
 
 config/name="A-Lost-Battle"
 config/features=PackedStringArray("4.4", "Forward Plus")
+
+[file_customization]
+
+folder_colors={
+"res://src/Scenes/": "blue",
+"res://src/assets/": "teal"
+}
